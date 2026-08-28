@@ -4,3 +4,4 @@ Planung und Aufgaben für Lern‑Atelier 1
 Als erstes möchte ich mein erstes GitHub‑Repository erstellen und einrichten
 README.md mit meinen Zielen und Infos bearbeiten
 Den Repository‑Link auf Moodle eintragen
+Test 2
